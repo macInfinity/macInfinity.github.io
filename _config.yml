@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://macInfinity.github.io
+title: Spaces over tabs
+tagline: Ruminations on software dev
+description: My thoughts on Software development (iOS and Java), devops, Continuous Delivery, Microservices and everything in between.
+paginate: 5
